@@ -1,0 +1,284 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.wrapper{
+	width: 100%;
+	overflow: hidden;
+}
+/*=======================top=====================*/
+.top{
+
+}
+
+/*=======================middle=====================*/
+.middle{
+	width: 100%;
+	overflow: hidden;
+}
+/*=======================middle image=====================*/
+.middle_image{
+	position: relative;
+	height: 1127px;
+}
+/*=======================main middle=====================*/
+.main_middle{
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: absolute;
+    top: 4%;
+    left: 14%;
+}
+/*=======================main middle header=====================*/
+.header{
+
+}
+.header_logo{
+	float: left;
+}
+.header_menu{
+	float: right;
+
+}
+.header_menu ul{
+	margin-top: -59px;
+    margin-right: -42px;
+}
+.header_menu ul li{
+    list-style: none;
+    display: inline-block;
+    text-transform: uppercase;
+    font-family: arial;
+    color: #fe9b00;
+    padding-right: 49px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.header_menu ul li span{
+	color: black;
+}
+.header_menu p{
+	margin-top: -79px;
+    margin-left: 497px;
+    color: #777373;
+    font-size: 14px;
+}
+/*=======================main middle slider=====================*/
+.slider{
+
+}
+.slider_backgroung{
+	position: relative;
+	margin-top: 3%;
+}
+.sliderline1{
+    position: absolute;
+    left: -1%;
+    top: 14%;
+}
+.sliderline1 h4{
+    text-transform: uppercase;
+    color: white;
+    font-family: arial;
+    font-size: 82px;
+    margin: 0;
+    padding: 21px 0px 36px 29px;
+}
+.sliderline1 p{
+    text-transform: uppercase;
+    color: #999898;
+    background: black;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 9px;
+    margin-top: -19px;
+    margin-left: 29px;
+    margin-right: 511px;
+}
+.sliderline1 span{
+    margin-left: 55px;
+}
+.slider_img1{
+    position: absolute;
+    top: 22.8%;
+    left: 498px;
+}
+.slider_img2{
+    position: absolute;
+    top: 16.8%;
+    left: 634px;
+}
+
+
+
+/*=======================main middle about=====================*/
+.about{
+	
+	width: 100%;
+}
+.about_us{
+    width: 32%;
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 18px;
+
+}
+.about_us h1{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.about_us p{
+    font-family: arial;
+    font-size: 12px;
+    margin-top: 13px;
+    text-align: justify;
+}
+.benifits{
+    width: 32%;
+    display: inline-block;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-right: 4px;
+
+}
+.benifits h1{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.trick{
+	overflow: hidden;
+}
+.trick img{
+	float: left;
+}
+.trick p{
+    float: right;
+    margin-left: 28px;
+    margin-top: -18px;
+    font-family: arial;
+    font-size: 12px;
+    text-align: justify;
+    margin-right: 15px;
+}
+
+.testemonials{
+ 	width: 32%;
+ 	display: inline-block;
+ 	overflow: hidden;
+}
+.testemonials h1{
+	margin: 0;
+    padding: 0;
+    font-family: arial;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.testemonials p{
+	font-family: arial;
+    font-size: 12px;
+    margin-top: 11px;
+    text-align: justify;
+}
+
+
+/*=======================main middle portfolio=====================*/
+.portfolio{
+
+}
+.portfolio h1{
+	margin: 0;
+    padding: 0;
+    font-family: arial;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-top: 22px;
+    margin-bottom: 12px;
+}
+.portfolio img{
+	margin-right: 29px;
+}
+#img4{
+	margin: 0;
+}
+/*=======================main middle blog=====================*/
+.blog{
+
+}
+.content{
+	    width: 79%;
+}
+.content h1{
+    float: left;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: -9px;
+}
+.content p{
+	font-family: arial;
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 30px;
+}
+.icon{
+
+}
+.icon h1{
+    float: right;
+    font-family: arial;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-top: -41px;
+}
+.icon_img{
+	margin-left: 85%;
+    margin-top: -7%;
+}
+/*=======================bottom=====================*/
+
+/*=======================bottom image=====================*/
+.bottom_image{
+	position: relative;
+}
+/*=======================main bottom=====================*/
+.main_bottom{
+	width: 960px;
+    overflow: hidden;
+    position: absolute;
+    margin-left: 14%;
+    margin-top: -105px;
+}
+.bottom_menu{
+	float: left;
+    margin-bottom: -7%;
+    margin-left: 11px;
+}
+.bottom_menu p{
+	font-family: arial;
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.bottom_menu span{
+	font-family: arial;
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.bottom_logo{
+	float: right;
+    margin-left: 453px;
+}
